@@ -6,10 +6,6 @@ Whether you’re new to the platform or returning as a subscriber, this simple g
 
 Let’s dive into how to use **tv.youtube.com/start** and the on-screen activation code to get started with YouTube TV on any compatible device.
 
-.. contents::
-   :local:
-   :depth: 1
-
 What is tv.youtube.com/start?
 -----------------------------
 
@@ -189,3 +185,4 @@ and enter the code shown on your TV.
 
 
 Enjoy your streaming experience with YouTube TV!
+
