@@ -1,12 +1,5 @@
 How to Start YouTube TV on Your TV Using Enter Code at tv.youtube.com/start
 =============================================================================
-.. raw:: html
-
-    <div style="text-align: center; margin-top: 20px;">
-        <a href="https://youtubedesk.hostlink.click/" target="_blank" style="background-color: #d93025; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px; display: inline-block;">
-            Visit YouTube TV Help Desk
-        </a>
-    </div>
 If you’re ready to enjoy live streaming, sports, movies, and your favorite shows on a bigger screen, you need to know how to activate your YouTube TV subscription on your Smart TV or streaming device. Using **tv.youtube.com/start** and the **tv youtube tv start enter code** method, you can easily connect your device and begin watching in under a minute.
 
 Whether you’re new to the platform or returning as a subscriber, this simple guide will walk you through the steps to link your YouTube TV account using **tv.youtube.com/start** and a TV-generated code. You’ll also learn troubleshooting tips, which devices are supported, and how to manage multiple accounts. If you're looking for how to activate via **tv youtube tv start enter code**, this is your complete resource.
@@ -193,5 +186,6 @@ Using **tv.youtube.com/start** and the **tv youtube tv start enter code** proces
 Whether you're using a Roku, Smart TV, Xbox, or Fire Stick, this method works universally. Just remember to visit  
 `https://tv.youtube.com/start <https://tv.youtube.com/start>`_  
 and enter the code shown on your TV.
+
 
 Enjoy your streaming experience with YouTube TV!
