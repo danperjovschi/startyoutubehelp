@@ -5,7 +5,7 @@ If you’re ready to enjoy live streaming, sports, movies, and your favorite sho
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://youtubedesk.hostlink.click/" target="_self"
+      <a href="https://youtubetvdesk.github.io/" target="_self"
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
